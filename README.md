@@ -5,4 +5,4 @@ O Cloud DevOps Experience - Banco Carrefour veio com uma trilha inédita de 101 
 
 ## Projeto o2: 
 
-Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
